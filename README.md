@@ -7,8 +7,7 @@ Hello! I'm Jam Shafi, a passionate Software Engineer based in Pakistan. With a s
 ## About Me
 
 I specialize in designing and implementing software solutions that are not only functional but also scalable and user-friendly. From backend development to frontend design, I enjoy every aspect of building applications that solve real-world problems.
-<h1>Hi 👋, I'm Jam Shafi</h1>
-<p>A passionate Software Engineer based in Pakistan</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
