@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Certainly! Here's a sample GitHub portfolio description for you:
-
----
-
 # Jam Shafi - Software Engineer
 
 Hello! I'm Jam Shafi, a passionate Software Engineer based in Pakistan. With a strong foundation in software development and a keen interest in problem-solving, I strive to create impactful and efficient solutions through code. My journey in tech has been driven by a love for innovation and a dedication to continually enhancing my skills.
@@ -32,5 +28,6 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shafi-muhamm
 ![GitHub issues](https://img.shields.io/github/issues/jamshafi?style=social)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/jamshafi?style=social)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/jamshafi/your-repo?style=flat-square)
+[1[jam shafi`s github stats].(https://github-readme-stats.vercel.app/api?username=shafi1214)](https://github.com/shafi1214/github-readme-stats)
 
 Thank you for visiting my GitHub profile!
